@@ -1,0 +1,1 @@
+This is my first responsive website. <br> G3-Architects website.
