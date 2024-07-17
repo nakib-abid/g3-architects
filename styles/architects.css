@@ -257,12 +257,24 @@ footer {
     }
 
     .our-features {
-        margin-left: 80px;
+        margin-left: 50px;
+    }
+
+    .teams > .our-features > .section-title {
+        margin-left: -40px;
+    }
+
+    .teams > .our-features > .feature-description {
+        margin-left: -20px;
+    }
+
+    .teams > .our-features > button {
+        margin-left: 30px;
     }
 
     #experience-badge {
-        margin-top: 20px;
-        margin-left: 20px;
+        margin-top: 30px;
+        margin-left: 6px;
     }
 
     .facts-container {
