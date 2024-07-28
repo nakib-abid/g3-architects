@@ -246,7 +246,7 @@ footer {
     .navbar, 
     .nav-links,
     .features,
-    .teams {
+    .teams{
      flex-direction: column;
     }
 
